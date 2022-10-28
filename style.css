@@ -47,3 +47,20 @@
     background-color:antiquewhite;
     color:blueviolet;
 }
+
+.abhi1{
+font-size: 50px;
+text-align: center;
+background-color: blueviolet;
+color: white;
+}
+.abhi2{
+    font-size: 20px;
+background-color: magenta;
+color: black;
+}
+.abhi3{
+    height:350px;
+    width: 500px;
+    margin: 0 30% 0 40%;
+}
